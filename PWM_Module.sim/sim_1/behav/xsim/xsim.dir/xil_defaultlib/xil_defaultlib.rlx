@@ -1,0 +1,7 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/kenka/OneDrive/Desktop/project/PWM_Module/PWM_Module.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/kenka/OneDrive/Desktop/project/PWM_Module/PWM_Module.srcs/sim_1/new/T_PWM_PPM.v,1714469172,verilog,,,,T_PWM_PPM,,,,,,,,
+C:/Users/kenka/OneDrive/Desktop/project/PWM_Module/PWM_Module.srcs/sources_1/new/pwm.v,1714317895,verilog,,C:/Users/kenka/OneDrive/Desktop/project/PWM_Module/PWM_Module.srcs/sim_1/new/T_PWM_PPM.v,,MUX;PWM_PPM;comparator;counter;dff,,,,,,,,
